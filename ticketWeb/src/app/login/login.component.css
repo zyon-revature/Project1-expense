@@ -1,0 +1,22 @@
+input {
+    color: darkred;
+}
+
+label {
+    display: flex;
+    color: 	black;
+    flex-direction: column-reverse;
+    margin: 1em;
+
+
+}
+.main{
+    display: flex;
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+}
+
+.page {
+    background-color: cornflowerblue;
+}
